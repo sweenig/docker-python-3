@@ -1,2 +1,4 @@
 requests
 pysmi
+mysql-connector-python
+logicmonitor_sdk
